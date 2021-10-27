@@ -1,0 +1,51 @@
+*{
+  background-color:  #E8CEBF;
+}
+
+h1 {
+Color: #266150;
+font-size: 3rem;
+}
+
+h2 {
+  Color: #266150;
+  text-decoration: none;
+  font-size: 1.5rem;
+
+}
+
+h3 {
+  Color: #266150;
+  text-decoration: none;
+  font-size: 1.5rem;
+
+}
+
+h4 {
+  Color: #266150;
+  text-decoration: none;
+  font-size: 1.5rem;
+
+}
+
+h5 {
+  Color: #266150;
+  text-decoration: none;
+  font-size: 1.5rem;
+
+}
+
+h6 {
+  Color: #266150;
+  text-decoration:  none;
+  font-size: 1.5rem;
+
+}
+
+a {
+  Background-color:#DDAF94;
+  Color: black;
+  text-decoration: none;
+  padding: 15px;
+
+}
